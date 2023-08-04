@@ -1,7 +1,7 @@
 # Login_Systen_PHP
 User login and registration system and Individual Dashboads built using PHP and MySQL .
 
-**Live Project URL -** [PHP-MySQL-Login-System](https://live-demo97.000webhostapp.com/)
+**Live Project URL -** [Login_Systen_PHP](https://live-demo97.000webhostapp.com/)
 
 ![screenshot](./img/screenshot-1.png)
 ![screenshot](./img/screenshot-2.png)
